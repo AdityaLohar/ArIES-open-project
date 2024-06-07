@@ -30,7 +30,7 @@ CLOUDINARY_API_SECRET=...
 ## Steps to Setup
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/AdityaLohar/ArIES-open-project
 ```
 
 2. Install frontend dependencies:
